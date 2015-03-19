@@ -1,0 +1,112 @@
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-03-19 16:10:57.794
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-03-19 16:11:00.660
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-03-19 16:11:01.361
+!MESSAGE Module SampleWebProject on jboss-eap not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-03-19 16:11:33.562
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-03-19 16:16:35.439
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-03-19 16:16:38.184
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-03-19 16:16:43.198
+!MESSAGE Module SampleWebProject on jboss-eap not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-03-19 16:17:46.310
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-03-19 16:18:40.356
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-03-19 16:18:42.416
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-03-19 16:18:47.424
+!MESSAGE Module SampleWebProject on jboss-eap not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-03-19 16:26:12.099
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2015-03-19 16:26:12.311
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-03-19 16:27:08.552
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-03-19 16:27:10.710
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-03-19 16:27:15.719
+!MESSAGE Module SampleWebProject on jboss-eap not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-03-19 16:27:37.959
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-03-19 16:32:30.455
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-03-19 16:32:33.215
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-03-19 16:32:38.239
+!MESSAGE Module SampleWebProject on jboss-eap not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-03-19 16:32:49.944
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-03-19 16:42:39.591
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-03-19 16:42:41.944
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-03-19 16:42:46.966
+!MESSAGE Module SampleWebProject on jboss-eap not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-03-19 16:43:02.991
+!MESSAGE Module SampleWebProject on jboss-eap still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-03-19 16:43:06.967
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-03-19 16:43:09.025
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-03-19 16:43:14.036
+!MESSAGE Module SampleWebProject on jboss-eap not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-03-19 16:44:50.107
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-03-19 16:47:11.091
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-03-19 16:47:13.658
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-03-19 16:47:13.846
+!MESSAGE Module SampleWebProject on jboss-eap not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-03-19 16:47:33.888
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-03-19 16:48:52.735
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-03-19 16:48:56.315
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-03-19 16:48:56.556
+!MESSAGE Module SampleWebProject on jboss-eap not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-03-19 16:49:51.941
+!MESSAGE Server processes have been terminated.
